@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+
+ <BODY>
+  <Form>
+  <fieldset>
+  <legend> COLLEGE FORM </legend>
+<b> Enter Your name :
+ <br><input type="text" name="username"><br>
+ <br>
+ <B>Contact NO :
+<br><input type="numbers" name="contact no">
+<br>
+ <b>Address :
+ <br><textarea rows="2" cols="20"></textarea><br>
+ <br>
+ <b>Email : 
+ <br><input type="email" id="email" name="email"/>   
+ <br>
+ <b>Gender :
+ <br>
+ <br><input type="radio" id="gender" name="gender" value="male"/>Male <input type="radio" id="gender" name="gender" value="female"/>Female 
+ <br>
+ <br>
+ <b>Hobby :
+ <br>
+ <input type="checkbox" id="cricket" name="cricket" value="cricket"/>  
+ <label for="cricket">Cricket</label>   
+ <input type="checkbox" id="football" name="football" value="football"/>  
+ <label for="football">Football</label>   
+ <input type="checkbox" id="hockey" name="hockey" value="hockey"/>  
+ <label for="hockey">Hockey</label>  
+ <br>
+ <br>
+ <b>Course :
+ <br>
+ <input type="checkbox" id="BCA" name="BCA" value="BCA"/>  
+ <label for="BCA">BCA</label>   
+ <input type="checkbox" id="BBA" name="BBA" value="BBA"/>  
+ <label for="BBA">BBA</label>   
+ <input type="checkbox" id="BMS" name="BMS" value="BMS"/>  
+ <label for="BMS">BMS</label>  
+ </fieldset>
+ </form>
+ 
+ </BODY> 
+</HTML>
